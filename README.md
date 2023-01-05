@@ -16,5 +16,4 @@ run python 2.audiofeatures_extraction.py >> audio_features.txt
 * `3.audio_analysis.py` to gather all audio features along with experiment's information in pandas dataframes saved in `.csv` files
 * `4.audio_analysis.ipynb` present some visual analysis of the extracted features
 
-The code for evaluating the performance of the Visual Speech Recognition robot can be found in this repository:
-[This is an external link to github.com](https://github.com/CHILIpReading)
+The code for evaluating the performance of the Visual Speech Recognition robot can be found in this [repository](https://github.com/CHILIpReading)
