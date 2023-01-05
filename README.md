@@ -7,9 +7,9 @@ A short description of the experiment along with the results can be found in the
 
 ## How to use the code
 Original data used for the presentation of the results are not given in the repository since it includes participants images and recordings.
-The experiment collected video datas that weere analzyed using the given codes in the following order:
+The experiment collected video datas that were analzyed using the given codes in the following order:
 * `1.audio_extraction.py` for extraction of the audio data.
-* `2.audiofeatures_extraction.py` for collection of the audio features from audio data (speech rate, articulation rate, mean pitch frequency). The features are gathered in external `.txt` file (one should change its encodings to ANSI for usability issue) by running the following command in the terminal:
+* `2.audiofeatures_extraction.py` for collection of the audio features from audio data (speech rate, articulation rate, mean pitch frequency). The features are gathered in an external `.txt` file (one should change its encodings to ANSI for usability issue) by running the following command in the terminal:
 ```
 run python 2.audiofeatures_extraction.py >> audio_features.txt
 ```
