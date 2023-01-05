@@ -2,7 +2,7 @@
 
 This repository contains the code and report for an experiment conducted at the CHILI laboratory. The experiment explores humans' speech characteristics when interacting with lip-reading social robots.
 
-A short description of the experiment along with the results can be found in the `Summary` pdf file, more detailed descriptions and conclusions are presented in the `report`.
+A short description of the experiment along with the results can be found in the `Summary` pdf file, more detailed descriptions and conclusions are presented in the `Report`.
 
 
 ## How to use the code
